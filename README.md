@@ -1,6 +1,6 @@
 # Projet d'Intelligence Artificielle : Classification d'Images de Tournesols et Choux-fleurs
 
-<img src="https://shop.wattsfarms.co.uk/cdn/shop/products/cauliflower_649x.png?v=1584661455" alt="Image de chou-fleur" width="600" height="500"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAYKgQRDPyZUWjDzDpdmcg55hoRQ1pFOyQGa6FhAJlQ&s" alt="Image de tournesol" width="600" height="500"/>
+<img src="https://shop.wattsfarms.co.uk/cdn/shop/products/cauliflower_649x.png?v=1584661455" alt="Image de chou-fleur" width="300" height="300"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAYKgQRDPyZUWjDzDpdmcg55hoRQ1pFOyQGa6FhAJlQ&s" alt="Image de tournesol" width="300" height="300"/>
 --- | ---
 
 ## Auteurs
